@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306954502150",
+    "project_id": "fluttube-46910",
+    "storage_bucket": "fluttube-46910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306954502150:android:93c2c09316355b25fd4387",
+        "android_client_info": {
+          "package_name": "com.fluttube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306954502150-9jhiq8s12dgod5pfrp8rprb0vmpct83p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBCDYEs5eof7qIMKbqSkLhqeDya04rIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306954502150-9jhiq8s12dgod5pfrp8rprb0vmpct83p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

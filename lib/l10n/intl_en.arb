@@ -1,0 +1,21 @@
+{
+  "todosOverviewAppBarTitle": "Title",
+  "todosOverviewErrorSnackbarText": "Error",
+  "todosOverviewUndoDeletionButtonText": "Udo",
+  "todosOverviewEmptyText": "is Empty",
+  "todosOverviewOptionsClearCompleted": "clear Completed",
+  "todosOverviewOptionsMarkAllIncomplete": "all Incomplete",
+  "todosOverviewOptionsMarkAllComplete": "all complete",
+  "todosOverviewFilterTooltip": "tooltip",
+  "todosOverviewFilterAll": "All",
+  "todosOverviewFilterActiveOnly": "ActiveOnly",
+  "todosOverviewFilterCompletedOnly": "CompletedOnly",
+  "statsAppBarTitle": "Stat",
+  "statsCompletedTodoCountLabel": "CompletedTodo",
+  "statsActiveTodoCountLabel": "ActiveTodo",
+  "editTodoAddAppBarTitle": "add Todo",
+  "editTodoEditAppBarTitle": "edit Todo",
+  "editTodoSaveButtonTooltip": "save button",
+  "editTodoTitleLabel": "title",
+  "editTodoDescriptionLabel": "description"
+}
